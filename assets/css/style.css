@@ -95,15 +95,15 @@ table {
     margin-left: 30px;
 }
 
-label {
+labl {
     display: block;
     margin-top: 20px;
     font-weight: normal;
     font-size: 1.2rem;
 }
 
-input {
-    height: 30px;
+iput {
+    heiht: 30px;
     width: 300px;
     margin-top: 10px;
     font-size: 1.2rem;
@@ -118,7 +118,7 @@ input {
 
 #nav a {
     text-decoration: none;
-    color: black;
+    color: bl
 }
 
 #contact i {
@@ -160,7 +160,7 @@ input {
     #nav li {
         clear: both;
         float:left;
-        text-align: left;
+        textt-align: left;
         display: block;
     }
 
@@ -168,11 +168,11 @@ input {
         height: 120px;
     }
 
-    .right-column {
+    #right-column {
         margin-bottom: 100px;
     }
 
-    #about {
+    .about {
         padding-right: 25px;
         padding-left: 25px;
     }
